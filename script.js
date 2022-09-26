@@ -43,19 +43,9 @@ let amountOfSixes =0
 rollTheDice(2);
 
 
-//3 /%
 
 
-// 4
 
-const formattedCreditCardObject = formatCreditCardNumber(123456789);
-console.log(formattedCreditCardObject);
-/*
-{
-  original: 123456789,
-  formatted: "1234 5678 9",
-}
-*/
 
 
 
